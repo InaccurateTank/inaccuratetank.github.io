@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title></title>
+	<link href="https://inaccuratetank.gay/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://inaccuratetank.gay"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-06-08T00:00:00+00:00</updated>
+	<id>https://inaccuratetank.gay/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Test</title>
+		<published>2022-06-08T00:00:00+00:00</published>
+		<updated>2022-06-08T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://inaccuratetank.gay/posts/2022/test/" type="text/html"/>
+		<id>https://inaccuratetank.gay/posts/2022/test/</id>
+		<content type="html">&lt;p&gt;Teststuff&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
